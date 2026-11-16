@@ -1,5 +1,5 @@
 # SAPB1_CRYSTAL_REPORTS
- Modelos RPT de Crystal Reports para SAP Businesss One
+ Modelos RPT de Crystal Reports para SAP Business One
 
 Este repositório possui arquivos diversos de extensão **.rpt** do Crystal Reports de layouts desenvolvidos para o SAP B1, eles estão separados em pastas para as versões SQL e Hana, como os mesmos foram aplicados em projetos diversos talvez seja necessário ajustar as querys e dados de conexão ao banco de dados para poder utilizá-los.
 
